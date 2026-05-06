@@ -1,6 +1,6 @@
-# 💻 Jacob Caleb — Software Engineer | Data & Automation Specialist
+# 💻 Jacob Caleb —Data Engineer | Data & Automation Specialist
 
-👋 Hi there! I’m **Jacob Caleb**, a passionate **SData Ngineer** focused on building intelligent automation systems, data-driven solutions, and scalable tools that solve real-world problems.
+👋 Hi there! I’m **Jacob Caleb**, a passionate **Data Engineer** focused on building intelligent automation systems, data-driven solutions, and scalable tools that solve real-world problems.
 
 ---
 
