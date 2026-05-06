@@ -1,6 +1,6 @@
 # 💻 Jacob Caleb — Software Engineer | Data & Automation Specialist
 
-👋 Hi there! I’m **Jacob Caleb**, a passionate **Software Engineer** focused on building intelligent automation systems, data-driven solutions, and scalable tools that solve real-world problems.
+👋 Hi there! I’m **Jacob Caleb**, a passionate **SData Ngineer** focused on building intelligent automation systems, data-driven solutions, and scalable tools that solve real-world problems.
 
 ---
 
@@ -28,19 +28,9 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [OWS Data Automation System](#)
+### 🔹 [ Data Automation System](#)
 Automates downloading, cleaning, and predicting quality data from OWS portals using Selenium and Pandas.  
 **Tech:** Python, Selenium, Pandas, Joblib
-
-### 🔹 [AI Ticket Quality Predictor](#)
-Predictive model that evaluates ticket quality and provides intelligent feedback to improve operational efficiency.  
-**Tech:** Python, Scikit-learn, Excel Integration
-
-### 🔹 [Excel VBA Reporting Tool](#)
-Automated Excel dashboard for CSM operations, integrating Python for backend analytics.  
-**Tech:** VBA, Python, Pandas
-
----
 
 ## 📊 GitHub Stats
 
@@ -56,13 +46,7 @@ Automated Excel dashboard for CSM operations, integrating Python for backend ana
 - Enhancing OWS automation workflows  
 - Building smart dashboards for quality monitoring  
 
----
-
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](#)
-- 📧 [jacobcaleb@example.com](mailto:jacobcaleb@example.com)
-- 🧠 [GitHub Profile](https://github.com/jacobcaleb)
-
----
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/caleb-jacob-270871199/)
+  
 ⭐ *“Code smart, automate wisely, and keep learning.”*
